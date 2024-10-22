@@ -1,0 +1,28 @@
+github
+jsfuller92/Udemy
+
+
+Merge Conflicts
+<<<<<<< xxxxxxxx
+   your changes
+   ============
+   remote changes
+>>>>>>>  yyyyyyy
+
+git --version
+gitk		(Visualizer of GIT)
+git mv		(Add and move in one step)
+git status
+git fetch
+git pull	(equals fetch and merge)
+git push
+git commit -am "message"	(add and commit in one)
+git log
+git reset --hard <commit>
+git reset --hard origin/master
+git branch
+git checkout -b <name>	(new branch)
+git checkout <name>	(existing branch)
+
+git merge <branch2>	(on branch 1. generally get conflict)
+git show <hash code>
