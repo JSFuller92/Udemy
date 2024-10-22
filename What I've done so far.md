@@ -1,5 +1,10 @@
-github
-jsfuller92/Udemy
+github.com
+user: jsfuller.92@mac.com
+Pwd:  1G2i3t4H5u6b
+
+
+Repositories:
+   jsfuller92/Udemy
 
 
 Merge Conflicts
@@ -9,6 +14,8 @@ Merge Conflicts
    remote changes
 >>>>>>>  yyyyyyy
 
+
+clear
 git --version
 gitk		(Visualizer of GIT)
 git mv		(Add and move in one step)
@@ -26,3 +33,25 @@ git checkout <name>	(existing branch)
 
 git merge <branch2>	(on branch 1. generally get conflict)
 git show <hash code>
+
+/****************************************************************/
+
+(1.10) Review File Changes
+git diff <file name>
+
+
+(1.11) More Configurations
+git config --list
+git config --global user.name "name"
+git config --global user.email email@mail.commit
+git config --global core.editor "code --wait"
+
+
+(2.14) Local vs. Remote
+
+
+
+
+
+
+
